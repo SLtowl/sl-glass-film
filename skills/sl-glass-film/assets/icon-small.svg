@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">SL Glass Film</title>
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4F5BFF"/><stop offset="1" stop-color="#7B5CFF"/></linearGradient>
+  </defs>
+  <rect width="64" height="64" fill="#F5F6FB"/>
+  <rect x="8" y="12" width="48" height="40" rx="12" fill="#FFFFFF" stroke="#DCDFEE" stroke-width="1.5"/>
+  <path d="M27 23.5v17l14-8.5z" fill="url(#a)"/>
+  <rect x="14" y="46" width="36" height="2.5" rx="1.25" fill="#DCDFEE"/>
+  <rect x="14" y="46" width="22" height="2.5" rx="1.25" fill="url(#a)"/>
+</svg>

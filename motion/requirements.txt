@@ -1,0 +1,5 @@
+numpy
+scipy
+pillow
+# optional, for the free voice engine (python scripts/voice.py --engine edge)
+edge-tts
